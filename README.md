@@ -1,7 +1,6 @@
-# ITCS### Course Page
+- **Name:** Osamah Nabil M. Khalaqi  
+- **ID:** 202109448
+- **Task Number:** 1
+- **Live Application (Replit):** https://replit.com/@osamahkhalaqi/ITCS333-Course-Project?v=1 
 
-## The names and student IDs of all team members.
 
-## A table indicating which student was responsible for which task.
-
-## A link to your live, hosted application on Replit.
